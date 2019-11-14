@@ -1,0 +1,30 @@
+.login {
+    max-width: 340px;
+    height: 400px;
+    margin: 200px auto;
+    /* background: linear-gradient(230deg, rgba(53, 57, 74, 0) 0%, rgb(0, 0, 0) 100%); */
+}
+.title {
+    color: #fff;
+    margin: 50px;
+}
+.login-form {
+    max-width: 240px;
+    margin: auto;
+}
+.login-form-forgot {
+    float: right;
+}
+.login-form-button {
+    width: 100%;
+}
+.registerBtn {
+    color: #fff;
+    cursor: pointer;
+}
+.registerBtn:hover {
+    color: rgb(27, 136, 238);
+}
+.remember {
+    color: white;
+}
