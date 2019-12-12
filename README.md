@@ -1,5 +1,5 @@
 <a href="https://htmlpreview.github.io/?https://github.com/Roommain/resume/blob/master/build/index.html">简历</a><br>
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
